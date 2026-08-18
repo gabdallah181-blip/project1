@@ -185,7 +185,7 @@
     bottom: -10px;
     left: 50%;
     transform: translateX(-50%);
-    background-color: blue;
+    background-color: black;
 }
 .welcome-web .container .welcome-div{
     width: 30%;
@@ -429,7 +429,7 @@
     height: 4px;
     bottom: -10px;
     left: 0;
-    background-color: blue;
+    background-color: black;
 }
 .choose .container .div-left p{
     margin: 50px 0;
@@ -655,7 +655,7 @@
     font-size: 20px;
     text-transform: capitalize;
     margin-top: 10px;
-    color: rgb(173, 173, 173);
+    color: rgb(190, 190, 190);
 }
 /* //////////////////////////////////////////team */
 .team{
@@ -843,7 +843,7 @@
     word-spacing: 2px;
 }
 .news .container .news-div:hover p{
-    color: blue;
+    color: black;
 }
 .news .container .news-div a{
     text-decoration: none;
